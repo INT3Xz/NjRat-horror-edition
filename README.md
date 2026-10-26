@@ -1,7 +1,6 @@
 # SOURCE-CODE-njRAT-0.7d-Horror-Edition
 
- njRAT 0.7d Horror Edition - SRC is in RAR file because github not allow upload more than 100 file at once
- downlaod from here: https://github.com/De-eloper/SOURCE-CODE-njRAT-0.7d-Horror-Edition/archive/refs/heads/main.zip
+ njRAT 0.7d Horror Edition 
  
 note that changing split key isnt working, i ran into error trying to mod njrat src split key before
 it will not function or respond to commands for some reason, i dont have a fix to it
@@ -63,4 +62,3 @@ ildasm.exe "(path your .exe)" /out="(path your Stub.il)"
 
 if you want to quickly get the path type like: "ildasm.exe(space)" and drag the stub.exe to the cmd, it gets the path with qoute marks "(space)/out=" then drag stub.exe back to the cmd. and full paths was done fast
 
-need more or video? please open issue
